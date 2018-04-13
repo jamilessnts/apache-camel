@@ -1,2 +1,3 @@
 # apache-camel
-This repository provides a simple application using Camel.
+This repository is a simple application using Camel.
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
